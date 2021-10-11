@@ -86,9 +86,6 @@ function App() {
     localStorage.setItem('workList', JSON.stringify(items))
   }
 
-
-
-
   return (
     <React.Fragment>
       <label className="switch" datatooltip={'Switch to '+(localStorage.getItem('theme') === 'light'?'dark mode':'light mode')}>
@@ -103,7 +100,6 @@ function App() {
           <input className="ipt" type="text" placeholder="So, What are you going to do?" value={inputList} onChange={itemEvent}>
           </input>
           <button id="plus" className="butt plus" onClick={handlePlus} datatooltip="Add to List">+</button>
-          {/* <div className="tooltip"data-tooltip="Add to List"></div> */}
         </div>
         
         <hr></hr>
