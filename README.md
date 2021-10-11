@@ -1,6 +1,5 @@
 <h1 align="center" >TO-DO List</h1>
 <h2 align="center" >A To-Do List app which reminds you of tasks that need to be completed. <h2>
-
 <h3 align="center">A to-do app made by using React.JS library</h3>
 
 ## Screenshot
