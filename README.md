@@ -9,7 +9,7 @@
 ##### light mode
 ![light](https://user-images.githubusercontent.com/65029559/136790419-f0eeaa10-5fc9-4c86-8aab-8ae1559830cd.png)
 
-#### [Live Demo](https://to-do-list.herokuapp.com/)
+#### [Live Demo]()
 
 ## Technologies used
 * NodeJS
