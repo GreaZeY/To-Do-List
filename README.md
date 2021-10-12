@@ -19,7 +19,7 @@
 * Fork the repository
 * Clone the repository
 * Install the dependencies by `npm install`
-* Run in development mode by `npm run start`
+* Run in development mode by `npm start`
 
 
 
