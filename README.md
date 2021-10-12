@@ -1,6 +1,7 @@
 <h1 align="center" >TO-DO List</h1>
 <p align="center" >A To-Do List app which reminds you of tasks that need to be completed. <p>
 used React.JS library
+  
 ## [Live Demo](https://greazey-todo-list.netlify.app/)
   
 ## Screenshot
